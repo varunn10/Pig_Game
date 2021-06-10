@@ -91,4 +91,3 @@ newGame.addEventListener('click', function () {
   }
 });
 
-//hello 
